@@ -49,6 +49,8 @@ CREATE TABLE netflix (
     description  VARCHAR(550)
 );
 
+---
+
 ## 💼 Business Questions Solved
 
 1. **What is the distribution between Movies and TV Shows on Netflix?**
@@ -80,5 +82,8 @@ CREATE TABLE netflix (
 14. **Who are the top 10 actors who appeared in the most Indian Netflix movies?**
 
 15. **How much content contains themes like ‘kill’ or ‘violence’, and how can we categorize them as ‘Good’ or ‘Bad’?**
+
+
+
 
 
