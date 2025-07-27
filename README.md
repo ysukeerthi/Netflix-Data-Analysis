@@ -6,13 +6,13 @@ Unlocking hidden insights from Netflix’s rich catalog of movies and TV shows t
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project dives deep into Netflix's global entertainment offerings using structured SQL analysis. Leveraging PostgreSQL, the analysis explores content trends, audience targeting, country-wise distribution, and keyword classification. The objective is to answer key business questions using efficient SQL techniques—ideal for aspiring data analysts.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Explore the split between Movies and TV Shows.
 - Determine top-performing content types, ratings, and genres.
@@ -22,7 +22,7 @@ This project dives deep into Netflix's global entertainment offerings using stru
 
 ---
 
-## 📚 Dataset Overview
+## Dataset Overview
 
 - **Source:** [Kaggle - Netflix Titles](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - **Format:** CSV
@@ -31,7 +31,7 @@ This project dives deep into Netflix's global entertainment offerings using stru
 
 ---
 
-## 🧾 Database Schema
+## Database Schema
 
 ```sql
 CREATE TABLE netflix (
