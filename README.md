@@ -49,4 +49,36 @@ CREATE TABLE netflix (
     description  VARCHAR(550)
 );
 
+## 💼 Business Questions Solved
+
+1. **What is the distribution between Movies and TV Shows on Netflix?**
+
+2. **What are the most common content ratings for Movies and TV Shows?**
+
+3. **Which movies were released in a specific year (e.g., 2020)?**
+
+4. **Which 5 countries have the most content available on Netflix?**
+
+5. **Which is the longest movie available on Netflix by duration?**
+
+6. **Which titles were added to Netflix in the last 5 years?**
+
+7. **Which Movies or TV Shows were directed by 'Rajiv Chilaka'?**
+
+8. **Which TV Shows have more than 5 seasons?**
+
+9. **How many content items exist in each genre/category?**
+
+10. **Which years had the highest number of Netflix releases in India?**
+
+11. **Which Movies are classified as Documentaries?**
+
+12. **Which content entries are missing director information?**
+
+13. **How many movies did actor 'Salman Khan' appear in during the last 10 years?**
+
+14. **Who are the top 10 actors who appeared in the most Indian Netflix movies?**
+
+15. **How much content contains themes like ‘kill’ or ‘violence’, and how can we categorize them as ‘Good’ or ‘Bad’?**
+
 
